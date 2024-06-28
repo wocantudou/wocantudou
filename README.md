@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-<!-- **wocantudou/wocantudou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
+**Note:** <span style="color: red;">I apologize for not releasing some private repositories due to personal reasons.
 
 - 🔭 I’m currently working on **iFLYTEK**.
 - 🌱 I’m currently learning **Smart cockpit** and **MM-LLM**.
