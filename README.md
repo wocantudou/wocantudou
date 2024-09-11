@@ -45,6 +45,7 @@ Here are some cool stats to visualize my work and contributions on GitHub:
 
 - Email: [1209022631@qq.com](mailto:1209022631@qq.com)  
 - Alternate Email: [shawen@mail.ustc.edu.cn](mailto:shawen@mail.ustc.edu.cn)
+- 订阅号: ![有啥问啥](assets/images/DYH.jpg)
 
 ## 😄 About Me
 
