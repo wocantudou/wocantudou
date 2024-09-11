@@ -24,7 +24,22 @@ Welcome to my GitHub profile! Here's a snapshot of what I’m currently working 
 
 ## 📊 GitHub Stats
 
-[![Chauvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wocantudou&show_icons=true&theme=tokyonight)](https://github.com/wocantudou/github-readme-stats)
+Here are some cool stats to visualize my work and contributions on GitHub:
+
+- **GitHub Summary Card**  
+  [![Chauvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wocantudou&show_icons=true&theme=tokyonight)](https://github.com/wocantudou/github-readme-stats)
+
+- **Most Used Languages**  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wocantudou&layout=compact&theme=tokyonight)](https://github.com/wocantudou/github-readme-stats)
+
+- **GitHub Streak**  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wocantudou&theme=tokyonight)](https://git.io/streak-stats)
+
+- **GitHub Trophies**  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=wocantudou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+- **Contribution Graph**  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=wocantudou&theme=react-dark&bg_color=20232a&hide_border=true)
 
 ## 📫 Let's Connect
 
