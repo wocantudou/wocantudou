@@ -39,7 +39,7 @@ Here are some cool stats to visualize my work and contributions on GitHub:
   [![trophy](https://github-profile-trophy.vercel.app/?username=wocantudou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - **Contribution Graph**  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=wocantudou&theme=react-dark&bg_color=20232a&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wocantudou&theme=react-dark&bg_color=20232a&hide_border=true)
 
 ## 📫 Let's Connect
 
